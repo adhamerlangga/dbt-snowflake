@@ -13,3 +13,6 @@
 1. Open the profiles.yml
 2. For the confidentials params/keys replace the value with `"{{ env_var('VAR_NAME') }}"`
 3. Run Command `EXPORT VAR_NAME=<confidential_value>`
+
+# Explanation
+This is a project from bootcamp digital skola, where I'm utilizing DBT to transform database and load it into snowflake that act as a data warehouse
